@@ -1,6 +1,6 @@
 # 👨‍💻 Pavel Dubrovskiy - Node.js Backend Developer
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)
+<img src="./profile_banner.jpg" alt="profile_banner">
 
 ## 🌟 About Me
 
