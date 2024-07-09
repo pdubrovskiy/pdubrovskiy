@@ -16,7 +16,7 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
 
 ## 📈 GitHub Stats
 
-![Fireeflyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireeflyx&show_icons=true&theme=shadow_green)
+![Fireeflyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireeflyx&show_icons=true&theme=graywhite)
 
 ---
 
