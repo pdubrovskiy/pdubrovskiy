@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-Hello! I'm Pavel Dubrovskiy, a sophomore student at BSUIR, aspiring to pursue a career as a Node.js Backend Developer. Throughout my academic journey, I have acquired valuable skills and knowledge in both Frontend and Backend technologies. Additionally, I have developed a keen interest in the dynamic and ever-evolving fields of DevOps.
+Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a career as a Node.js Backend Developer. Throughout my academic journey, I have acquired valuable skills and knowledge in both Frontend and Backend technologies. Additionally, I have developed a keen interest in the dynamic and ever-evolving fields of DevOps.
 
 - 🔭 I’m currently working on various Node.js projects
 - 🌱 I’m constantly learning new technologies and improving my skills
