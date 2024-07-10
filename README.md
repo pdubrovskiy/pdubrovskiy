@@ -20,8 +20,8 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
 
 ---
 
-## 🛠️ Technology Stack
-  
+<details><summary><h2>🛠️ Technology Stack</h2></summary>
+
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript"/>
@@ -88,6 +88,8 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="42" height="42" alt="RabbitMQ" title="RabbitMQ"/>
   <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="42" height="42" alt="Jira" title="Jira"/>
 </p>
+
+</details>
 
 ---
 
