@@ -94,4 +94,4 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
 ---
 
 *Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.*
-<p align="center"><img src="https://komarev.com/ghpvc/?username=fireeflyx&color=green"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=fireeflyx&color=lightgrey"/></p>
