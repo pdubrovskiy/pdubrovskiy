@@ -80,8 +80,7 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
     </td>
   </tr>
   <tr>
-    <td><h3 align="center">Web Development</h3></td>
-    <td><h3 align="center">Version Control & Docs</h3></td>
+    <td colspan="2"><h3 align="center">Other</h3></td>
   </tr>
   <tr>
     <td colspan="2">
