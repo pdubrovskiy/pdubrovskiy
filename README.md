@@ -7,20 +7,33 @@
 Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a career as a Node.js Backend Developer. Throughout my academic journey, I have acquired valuable skills and knowledge in both Frontend and Backend technologies. Additionally, I have developed a keen interest in the dynamic and ever-evolving fields of DevOps.
 
 - 🔭 I’m currently working on various Node.js projects
-- 🌱 I’m constantly learning new technologies and improving my skills
+- 📘 I’m constantly learning new technologies and improving my skills
 - 💬 Ask me about anything related to Node.js, JavaScript, or backend development
-- 📫 How to reach me: [Email](mailto:paveldubrovskiyit@gmail.com) / [LinkedIn](https://www.linkedin.com/in/pavel-dubrovskiy-39b296255/) / [Telegram](https://t.me/pavel_dubrovskiy)
+- 🌎 I speak English at B2 level
 - ⚡ Fun fact: I like soba with soy sauce 🍜
+
+<div id="socials" align="center"> <a href="https://www.linkedin.com/in/pavel-dubrovskiy-39b296255/">
+  
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:paveldubrovskiyit@gmail.com"> 
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://t.me/pavel_dubrovskiy">
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fireeflyx&show_icons=true&theme=graywhite"/></p>
+<div align="center"> 
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fireeflyx&theme=transparent)</div>
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fireeflyx&theme=transparent) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fireeflyx&theme=transparent)</div>
+
 
 ---
 
-<details open><summary><h2>🛠️ Technology Stack</h2></summary>
+## 🛠️ Technology Stack
 
 <table align="center">
   <tr>
@@ -30,23 +43,31 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
   <tr>
     <td>
       <p>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="42" height="42" alt="Golang" title="Golang"/>
-      </p>
+      <div align="center">
+
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  </div>
+  <div align="center">
+    
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+      </div>
       </p>
     </td>
     <td>
       <p>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js"/>
-        <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="42" height="42" alt="Express" title="Express"/>
-        <img src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png"  width="42" height="42" alt="Fastify" title="Fastify"/>
-        <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" width="42" height="42" alt="Nest.js" title="Nest.js"/>
-        <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="42" height="42" alt="React" title="React"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" title="Next.js"/>  
-      </p>
+      <div align="center">
+
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+  </div>
+  <div align="center">
+  
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+      </div>
       </p>
     </td>
   </tr>
@@ -57,25 +78,32 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
   <tr>
     <td>
       <p>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes" title="Kubernetes"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="42" height="42" alt="Digital Ocean" title="Digital Ocean"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux"/>
-        <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" width="42" height="42" alt="Nginx" title="Nginx"/>
-        <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="42" height="42" alt="Bash" title="Bash"/>
-      </p>
+      <div align="center">
+
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  </div>
+  <div align="center">
+
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+      </div>
       </p>
     </td>
     <td>
       <p>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" title="Redis"/>
-        <img src="https://avatars.githubusercontent.com/u/695951?s=200&v=4" width="42" height="42" alt="MinIO S3" title="MinIO S3"/>
-      </p>
+      <div align="center">
+
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  </div>
+  <div align="center">
+    
+  ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
+  ![Minio](https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white)
+      </div>
       </p>
     </td>
   </tr>
@@ -85,22 +113,25 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
   <tr>
     <td colspan="2">
       <p>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="42" height="42" alt="GraphQL" title="GraphQL"/>
-        <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="42" height="42" alt="Websocket" title="Websocket"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="42" height="42" alt="RabbitMQ" title="RabbitMQ"/>
-        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="42" height="42" alt="Gitlab" title="Gitlab"/>
-        <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="42" height="42" alt="Swagger" title="Swagger"/>
-        <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" width="42" height="42" alt="Material UI" title="Material UI"/>
-      </p>
+      <div align="center">
+
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
+  ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+      </div>
       </p>
     </td>
   </tr>
 </table>
 
-</details>
 
 ---
 
+
+## 🏃 My activity
+<div align="center"><img src="./github-user-contribution.svg" alt="snak"/></div>
+
 <i align="center">Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.</i>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=fireeflyx&color=lightgrey"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=fireeflyx&color=blue"/></p>
