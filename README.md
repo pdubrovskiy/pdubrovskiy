@@ -25,10 +25,10 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
 
 <div align="center"> 
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fireeflyx&theme=transparent)</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdubrovskiy&theme=transparent)</div>
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fireeflyx&theme=transparent) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fireeflyx&theme=transparent)</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pdubrovskiy&theme=transparent) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pdubrovskiy&theme=transparent)</div>
 
 
 ---
@@ -134,4 +134,4 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
 <div align="center"><img src="./github-user-contribution.svg" alt="snak"/></div>
 
 <i align="center">Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.</i>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=fireeflyx&color=blue"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=pdubrovskiy&color=blue"/></p>
