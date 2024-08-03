@@ -1,6 +1,7 @@
 # 👨‍💻 Pavel Dubrovskiy - Node.js Backend Developer
 
 <img src="./profile_banner.jpg" alt="profile_banner"/>
+<h4 align="center"><a href="https://drive.google.com/file/d/1OQuDK6h3SppWnpMtHdSjTaWu-L0aVcPP/view?usp=sharing">📄 My CV</a></h4>
 
 ## 🌟 About Me
 
