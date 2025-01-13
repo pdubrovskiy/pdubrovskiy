@@ -131,6 +131,7 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
 
 ---
 
+<!-- Section with last projects -->
 
 ## 🏃 My activity
 <div align="center"><img src="./github-user-contribution.svg" alt="snak"/></div>
