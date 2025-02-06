@@ -134,7 +134,11 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
 <!-- Section with last projects -->
 
 ## 🏃 My activity
-<div align="center"><img src="./github-user-contribution.svg" alt="snak"/></div>
+<div align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
+  <img alt="github-snake" src="dist/github-snake.svg">
+</picture></div>
 
 <i align="center">Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.</i>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=pdubrovskiy&color=blue"/></p>
