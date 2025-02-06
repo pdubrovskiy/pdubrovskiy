@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 
-👨‍💻 I'm a passionate Software Developer with a strong focus on backend development and system architecture. Currently a third-year student at BSUIR, I combine academic knowledge with practical experience in building scalable applications. I thrive on solving complex technical challenges and continuously expanding my expertise in modern development practices. With B2 level English proficiency, I effectively collaborate in international teams and adapt quickly to new environments.
+👨‍💻 I'm a passionate Software Developer with a strong focus on backend development and system architecture. Currently a third-year student at BSUIR, I combine academic knowledge with practical experience in building scalable applications. I thrive on solving complex technical challenges and continuously expanding my expertise in modern development practices. I effectively collaborate in international teams and adapt quickly to new environments.
 
 - 🔭 I'm currently working on various Node.js projects
 - 📘 I'm constantly learning new technologies and improving my skills
