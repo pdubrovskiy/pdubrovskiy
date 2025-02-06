@@ -27,10 +27,10 @@
 
 <div align="center"> 
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdubrovskiy&theme=transparent)</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdubrovskiy&theme=github)</div>
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pdubrovskiy&theme=transparent) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pdubrovskiy&theme=transparent)</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pdubrovskiy&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pdubrovskiy&theme=github)</div>
 
 
 ---
