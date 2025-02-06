@@ -7,8 +7,8 @@
 
 Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a career as a Node.js Backend Developer. Throughout my academic journey, I have acquired valuable skills and knowledge in both Frontend and Backend technologies. Additionally, I have developed a keen interest in the dynamic and ever-evolving fields of DevOps.
 
-- 🔭 I’m currently working on various Node.js projects
-- 📘 I’m constantly learning new technologies and improving my skills
+- 🔭 I'm currently working on various Node.js projects
+- 📘 I'm constantly learning new technologies and improving my skills
 - 💬 Ask me about anything related to Node.js, JavaScript, or backend development
 - 🌎 I speak English at B2 level
 - ⚡ Fun fact: I like soba with soy sauce 🍜
@@ -135,9 +135,9 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
 
 ## 🏃 My activity
 <div align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
-  <img alt="github-snake" src="dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pdubrovskiy/pdubrovskiy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pdubrovskiy/pdubrovskiy/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pdubrovskiy/pdubrovskiy/output/github-contribution-grid-snake.svg">
 </picture></div>
 
 <i align="center">Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.</i>
