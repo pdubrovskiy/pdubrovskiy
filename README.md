@@ -1,11 +1,11 @@
-# 👨‍💻 Pavel Dubrovskiy - Node.js Backend Developer
+# 👨‍💻 Pavel Dubrovskiy - Node.js Developer
 
 <img src="./profile_banner.jpg" alt="profile_banner"/>
 <!-- <h4 align="center"><a href="https://drive.google.com/file/d/1OQuDK6h3SppWnpMtHdSjTaWu-L0aVcPP/view?usp=sharing">📄 My CV</a></h4> -->
 
 ## 🌟 About Me
 
-Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a career as a Node.js Backend Developer. Throughout my academic journey, I have acquired valuable skills and knowledge in both Frontend and Backend technologies. Additionally, I have developed a keen interest in the dynamic and ever-evolving fields of DevOps.
+👨‍💻 I'm a passionate Software Developer with a strong focus on backend development and system architecture. Currently a third-year student at BSUIR, I combine academic knowledge with practical experience in building scalable applications. I thrive on solving complex technical challenges and continuously expanding my expertise in modern development practices. With B2 level English proficiency, I effectively collaborate in international teams and adapt quickly to new environments.
 
 - 🔭 I'm currently working on various Node.js projects
 - 📘 I'm constantly learning new technologies and improving my skills
