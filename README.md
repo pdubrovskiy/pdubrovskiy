@@ -15,7 +15,7 @@
 
 <div id="socials" align="center"><a href="">
   
-  ![]()</a> <a href="https://www.linkedin.com/in/pavel-dubrovskiy-39b296255/">
+  ![]()</a> <a href="https://www.linkedin.com/in/pdubrovskiy">
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:paveldubrovskiyit@gmail.com"> 
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://t.me/pavel_dubrovskiy">
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
